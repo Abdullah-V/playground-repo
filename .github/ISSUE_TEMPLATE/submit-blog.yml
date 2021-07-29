@@ -1,0 +1,20 @@
+name: Yeni blog gonder (name)
+description: Blog eklemek icin issue ac. 
+labels: [label-submit]
+
+title: "Yeni blog gonder (title)"
+
+body:
+- type: input
+  id: name
+  attributes:
+    label: Blog ismi
+  validations:
+    required: true
+
+- type: input
+  id: link
+  attributes:
+    label: Blog linki
+  validations:
+    required: true
