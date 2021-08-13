@@ -1,6 +1,6 @@
 name: Yeni blog gonder (name)
 description: Blog eklemek icin issue ac. 
-labels: [label-submit]
+labels: [labelSubmit]
 
 title: "Yeni blog gonder (title)"
 
